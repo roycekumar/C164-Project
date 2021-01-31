@@ -5,6 +5,7 @@ root=Tk()
 root.title("Planet Encyclopedia")
 root.geometry("600x600")
 root.configure(background="black")
+img_path=""
 def Open():
     print("open")
 def rotate():
